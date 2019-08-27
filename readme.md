@@ -12,7 +12,7 @@ machine learning and data analysis.
 * **Time:** Tue/Thu 2:00 - 3:15 PM
 * **Location:** Mechanical Engineering Building 341
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
-  - Office Hours: Wednesdays 2:00 - 3:00 PM, after class
+  - Office Hours: Wednesdays 3:00 - 4:00 PM, after class
   - Office: Rice 306
 * **TA:** Hang Shao (hs7uq *AT* virginia *DOT* edu)
   - Office Hours: TBA
