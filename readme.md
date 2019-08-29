@@ -15,7 +15,7 @@ machine learning and data analysis.
   - Office Hours: Wednesdays 3:00 - 4:00 PM, after class
   - Office: Rice 306
 * **TA:** Hang Shao (hs7uq *AT* virginia *DOT* edu)
-  - Office Hours: TBA
-  - Office: TBA
+  - Office Hours: Mondays and Tuesdays 3:30 - 4:30 PM
+  - Office: Rice 340
 * **Prerequisites:** You should have basic (undergraduate level) knowledge of Probability, Linear Algebra, Multivariate Calculus, and be comfortable programming in Python
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
