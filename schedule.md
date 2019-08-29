@@ -5,10 +5,10 @@
 | Day      | Title / Notes                                                      | Reading       | Homework                              |
 |----------|--------------------------------------------------------------------|---------------|---------------------------------------|
 | Tu 8/27  | [Introduction](lectures/L01-Introduction.pdf) | | |
-| Th 8/29  | | | |
-| Tu 9/3   | | | |
-| Th 9/5   | | | |
-| Tu 9/10  | | | |
+| Th 8/29  | Topology Basics | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | |
+| Tu 9/3   | Manifold Basics | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
+| Th 9/5   | Manifold Basics, cont. | | |
+| Tu 9/10  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
 | Th 9/12  | | | |
 | Tu 9/17  | | | |
 | Th 9/19  | | | |
