@@ -1,7 +1,5 @@
 ## Schedule
 
-*Coming Soon!*
-
 | Day      | Title / Notes                                                      | Reading       | Homework                              |
 |----------|--------------------------------------------------------------------|---------------|---------------------------------------|
 | Tu 8/27  | [Introduction](lectures/L01-Introduction.pdf) | | |
