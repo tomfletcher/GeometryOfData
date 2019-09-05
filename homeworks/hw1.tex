@@ -1,0 +1,86 @@
+\documentclass[11pt]{article}
+\usepackage{fullpage,url,hyperref}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\usepackage[letterpaper,top=1in,bottom=1in,left=1in,right=1in,nohead]{geometry}
+
+\setlength{\parindent}{0in}
+\setlength{\parskip}{6pt}
+
+\begin{document}
+\thispagestyle{empty}
+{\large{\bf ECE / CS 6501: Geometry of Data \hfill Due Tu 9/17}}\\
+
+{\LARGE{\bf Homework 1: Getting Started }}
+\vspace{0.2\baselineskip}
+\hrule
+
+{\bf Instructions:} Submit a single Jupyter notebook (.ipynb) of your work to
+Collab by 11:59pm on the due date. All code should be written in Python. {\bf Be
+  sure to show all the work involved in deriving your answers! If you just give
+  a final answer without explanation, you may not receive credit for that
+  question.}
+
+You may discuss the concepts with your classmates, but write up the answers
+entirely on your own. Do not look at another student's answers, do not use
+answers from the internet or other sources, and do not show your answers to
+anyone.
+
+\begin{enumerate}
+
+\item Consider the set of all {\bf closed} intervals in the real line with
+  non-zero length:
+  $$\mathcal{B} = \{[a, b] : a < b\}.$$
+  Is this a valid basis for a topology on $\mathbb{R}$? Why or why not?
+
+\item Given a metric space $X$ with metric
+  $d : X \times X \rightarrow \mathbb{R}$ and a subset $A \subseteq X$, show
+  that the metric restricted to $A$, $d |_{A \times A},$ gives the same topology
+  as the subspace topology on $A$. {\bf Hint:} you may want to solve Exercise 2
+  in Section 1 of the notes and use that result.
+
+\item Write a Python function to compute the stereographic projection,
+  $f: S^2 \rightarrow \mathbb{R}^2$, from the north pole $(0,0,1)$ of the
+  2-sphere to the $z = 0$ plane. You may want to see the Wikipedia page for the
+  equation:
+  \begin{center}
+    \url{https://en.wikipedia.org/wiki/Stereographic_projection}
+  \end{center}
+
+  \begin{enumerate}
+  \item What is the image of a longitudinal line, i.e., a great circle passing
+    through the north and south poles? Use your function to plot several images
+    of logitudinal lines in the plane.
+
+  \item What is the image of a latitude line, i.e., a circle formed by
+    intersection with a horizontal plane ($z = \mathrm{const.}$)? Plot several
+    images of latitude lines in the plane.
+
+  \item What is the image of an arbitrary great circle (one that is {\bf not} a
+    longitudinal line or the equator)? Again, plot several in the plane.
+  \end{enumerate}
+
+\item Write a Python function to sample uniformly random points on the
+  $d$-sphere, $S^d$. Do this by first sampling $d+1$ i.i.d. standard Gaussian
+  random variables, $N(0,1)$, to get a point
+  $x = (x_1, x_2, \ldots, x_{d+1}) \in \mathbb{R}^{d+1}$. Then project this
+  point to the unit sphere by $x \mapsto \frac{x}{\|x\|}$.
+
+  Repeat the following experiments for $d = 2, 4, 10, 100, 1000$
+  \begin{enumerate}
+  \item Sample 10,000 points on $S^d$ and compute their distance from the
+    ``equator'', or great circle with $x_1 = 0$. Distance to the equator should
+    be arc distance along the sphere. For each value of $d$, plot a histogram of
+    these distances. What do you notice as $d$ increases? What does this say
+    about uniform random points on the sphere? Would this result be the same or
+    different if you used a different great circle (possibly not axis-aligned)?
+
+  \item Sample 1,000 pairs of points on $S^d$ and compute the angle between
+    them. Again, for each value of $d$, plot a histogram of these pairwise
+    angles. What do you notice as $d$ increases and what does it say about the
+    geometry of uniformly random points?
+  \end{enumerate}
+  
+\end{enumerate}
+\end{document}

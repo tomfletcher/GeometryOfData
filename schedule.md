@@ -4,7 +4,7 @@
 |----------|--------------------------------------------------------------------|---------------|---------------------------------------|
 | Tu 8/27  | [Introduction](lectures/L01-Introduction.pdf) | | |
 | Th 8/29  | Topology Basics | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | |
-| Tu 9/3   | Topology Basics, cont. | | [HW 1](homeworks/hw1.pdf), Due Tu 9/17 |
+| Tu 9/3   | Topology Basics, cont. | | [HW 1](homeworks/hw1.pdf) [(tex)](homeworks/hw1.tex), Due Tu 9/17 |
 | Th 9/5   | Manifold Basics | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Tu 9/10  | Manifold Basics, cont. | | |
 | Th 9/12  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
