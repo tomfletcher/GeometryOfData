@@ -4,14 +4,14 @@
 |----------|--------------------------------------------------------------------|---------------|---------------------------------------|
 | Tu 8/27  | [Introduction](lectures/L01-Introduction.pdf) | | |
 | Th 8/29  | Topology Basics | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | |
-| Tu 9/3   | Topology Basics, cont. | | [HW 1](homeworks/hw1.pdf) [(tex)](homeworks/hw1.tex), Due Tu 9/17 |
+| Tu 9/3   | Topology Basics, cont. | | [HW 1](homeworks/hw1.pdf), Due Tu 9/17 <br> [tex](homeworks/hw1.tex)|
 | Th 9/5   | Manifold Basics | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Tu 9/10  | Manifold Basics, cont. | | |
 | Th 9/12  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
-| Tu 9/17  | | | **HW 1 Due** |
-| Th 9/19  | | | |
-| Tu 9/24  | | | |
-| Th 9/26  | | | |
+| Tu 9/17  | *Class Canceled* | | **HW 1 Due** |
+| Th 9/19  | Riemannian Geometry, cont. | | |
+| Tu 9/24  | Statistics on Manifolds | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
+| Th 9/26  | Statistics on Manifolds, cont. | | |
 | Tu 10/1  | | | |
 | Th 10/3  | | | |
 | Tu 10/8  | | | |
