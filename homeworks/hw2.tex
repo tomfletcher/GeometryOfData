@@ -1,0 +1,143 @@
+\documentclass[11pt]{article}
+\usepackage{fullpage,url,hyperref}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[shortlabels]{enumitem}
+
+\usepackage[letterpaper,top=1in,bottom=1in,left=1in,right=1in,nohead]{geometry}
+
+\setlength{\parindent}{0in}
+\setlength{\parskip}{6pt}
+
+\begin{document}
+\thispagestyle{empty}
+{\large{\bf ECE / CS 6501: Geometry of Data \hfill Due Tu 10/15}}\\
+
+{\LARGE{\bf Homework 2: Geodesics and Manifold Statistics}}
+\vspace{0.2\baselineskip}
+\hrule
+
+{\bf Instructions:} Submit a single Jupyter notebook (.ipynb) of your work to
+Collab by 11:59pm on the due date. All code should be written in Python. {\bf Be
+  sure to show all the work involved in deriving your answers! If you just give
+  a final answer without explanation, you may not receive credit for that
+  question.}
+
+You may discuss the concepts with your classmates, but write up the answers
+entirely on your own. Do not look at another student's answers, do not use
+answers from the internet or other sources, and do not show your answers to
+anyone.
+
+\section{Geodesic Equation on $S^2$}
+\begin{enumerate}[(a)]
+\item Consider the standard $(\theta, \phi)$ parameterization of the sphere:
+  \begin{align*}
+    s &: (0, 2 \pi) \times \left(-\frac{\pi}{2}, \frac{\pi}{2}\right) \rightarrow \mathbb{R}^3\\
+    s(\theta, \phi) &= (\cos \theta \cos \phi, \sin \theta \cos \phi, \sin \phi).
+  \end{align*}
+  Write down equations for the coordinate tangent vectors
+  $\frac{\partial s}{\partial \theta}$ and $\frac{\partial s}{\partial
+    \phi}$. These should be vectors in $\mathbb{R}^3$. {\bf Hint:} We did these
+  on the board in class already!
+
+\item Using the induced metric of $\mathbb{R}^3$, write down the coefficients of
+  the Riemannian metric, $g$, on $S^2$ in terms of the coordinates
+  $\theta, \phi$. {\bf Hint:} You should end up with a $2 \times 2$ matrix,
+  whose entries are just Euclidean $\mathbb{R}^3$ inner products of the tangent
+  vectors from the previous part.
+
+\item Compute the inverse metric $g^{-1}$. Again, this will be a $2 \times 2$
+  matrix whose entries are functions of $\theta, \phi$.
+
+\item Compute formulas for the Christoffel symbols, $\Gamma_{ij}^k$.
+
+\item Show that the equator circle $\gamma(t) = s(t, 0)$ is a geodesic.
+
+\item Provide an argument that all great circles (circles on $S^2$ with radius =
+  1) are geodesics. You don't need a lengthy or precise proof, just a brief and
+  informal argument will suffice.
+  
+\end{enumerate}
+
+\section{Statistics on Shape Manifolds}
+In this project you will implement Kendall's shape space and simple shape
+statistics, namely, the Fr\'{e}chet mean. You first must decide on a data
+structure for representing a 2D point set (called an ``object'' throughout this
+assignment).  For an object containing $n$ points, you may decide to use either
+an $2 \times n$ real matrix or a list of $n$ complex numbers. Also, you will
+want to have a way to plot your resulting shapes.
+
+\paragraph{Methods:} You will need to implement functions that perform the
+following operations:
+
+\begin{enumerate}
+\item Project an object onto the preshape sphere by removing its centroid
+and scaling it to unit norm. This is a preprocessing step that all objects
+will go through before applying any of the following routines.
+
+\item Perform Ordinary (a.k.a. Orthogonal) Procrustes Analysis (OPA). This
+should input a target preshape and moving preshape and output the aligned
+version of the moving preshape.
+
+\item Compute the exponential map on Kendall shape space, i.e., given a preshape
+and tangent vector, compute the preshape at the end of the corresponding
+geodesic.
+
+\item Compute the log map on Kendall shape space, i.e., given two preshapes,
+compute the tangent vector at the first preshape that is the initial condition
+of the geodesic segment between the two.
+
+\item Estimate the Fr\'{e}chet mean shape using gradient descent as described in
+  class.
+
+\item Compute the approximate principal geodesic analysis (PGA), that is,
+perform principal component analysis (PCA) in the tangent space to the
+Fr\'{e}chet mean.
+\end{enumerate}
+
+\paragraph{Experiments:} You will test your shape analyis routines using two
+datasets: one synthetic and one from real images.
+
+\begin{enumerate}
+\item Random triangles. Generate a set of 100 triangles with the following three
+points:
+$$p_0 = (-1,0), \quad p_1 = (1,0), \quad p_2 = (0,s),$$
+where $s$ is a Gaussian random variable with mean 1 and standard deviation 0.5.
+Next, add zero-mean Gaussian noise with s.d. 0.1 to all six coordinates of each
+of the 100 triangles.
+
+\item Corpus callosum shapes:
+\url{https://tomfletcher.github.io/GeometryOfData/homeworks/cc-shapes.zip}
+
+Each corpus callosum object consists of 64 points listed in an ASCII text file.
+Each line of the file contains a single point ($x$ and $y$ coordinates).
+\end{enumerate}
+
+\paragraph{Report:} You should discuss your work in your Jupyter notebook. Be
+sure to include the following:
+\begin{itemize}
+\item Describe your implementation. You do not need to recount the theory and
+equations behind all of the methods, just a brief description of how you
+implemented them and the issues you faced.
+\item Describe both the triangle and corpus callosum experiments. For each
+experiment include:
+\begin{itemize}
+\item Pick two objects from the data set and plot a geodesic between them (this
+should be a sequence of objects deforming from one to the other).
+\item Plots of 1) the raw object data (i.e., all points from all objects
+overlaid in one plot), 2) the preshapes aligned to the Fr\'{e}chet mean, and
+3) the Fr\'{e}chet mean shape (in a different color). Can you see an obvious
+difference in the aligned shapes?
+\item A plot of the eigenvalues for each mode (scree plot). Looking at this
+plot, how many modes would you use to describe the data?
+\item Plot the modes of variation at $0, \pm 1, \pm 2$ standard deviations. You
+only need to plot up to 3 different modes (maybe fewer, if you decided in the
+previous question that fewer were needed to represent the data).
+\item Describe what you are seeing in the modes of variation. For the triangle
+case, is this the variation you expected?
+\end{itemize}
+\item Discuss: What is the maximal number of modes that are possible for
+triangle shapes? In general, what are the maximal number of modes that are
+possible for a set of objects with $n$ points?
+\end{itemize}
+\end{document}
