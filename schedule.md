@@ -11,7 +11,7 @@
 | Tu 9/17  | *Class Canceled* | | **HW 1 Due** |
 | Th 9/19  | Riemannian Geometry, cont. | | |
 | Tu 9/24  | Statistics on Manifolds: Frechet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | [HW 2](homeworks/hw2.pdf), Due Tu 10/15 <br> [tex](homeworks/hw2.tex) |
-| Th 9/26  | Introduction to Shape Manifolds: Kendall's Shape Space | | |
+| Th 9/26  | [Introduction to Shape Manifolds: Kendall's Shape Space](lectures/L09-ShapeManifolds.pdf) | | |
 | Tu 10/1  | Statistics on Manifolds: Principal Geodesic Analysis | | |
 | Th 10/3  | | | |
 | Tu 10/8  | | | |
