@@ -19,3 +19,9 @@ machine learning and data analysis.
   - Office: Rice 340
 * **Prerequisites:** You should have basic (undergraduate level) knowledge of Probability, Linear Algebra, Multivariate Calculus, and be comfortable programming in Python
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
+
+## Additional Reading
+
+Manfredo do Carmo, *Riemannian Geometry*
+
+Sigmundur Gudmundsson, [*Introduction to Riemannian Geometry*](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf)
