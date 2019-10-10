@@ -15,8 +15,8 @@
 | Tu 10/1  | Statistics on Manifolds: Principal Geodesic Analysis | [Fletcher 2019, Section 3](https://collab.its.virginia.edu/x/xe68yz) | |
 | Th 10/3  | Statistics on Manifolds, cont.<br>[PCA Refresher](lectures/PCARefresher.pdf) | | |
 | Tu 10/8  | *Reading Day -- No Class* | | |
-| Th 10/10 | Introduction to Manifold Learning | | |
-| Tu 10/15 | | | **HW 2 Due** |
+| Th 10/10 | Introduction to Manifold Learning:<br>Multidimensional Scaling | [Cayton, 2005](http://www.lcayton.com/resexam.pdf) | |
+| Tu 10/15 | Isomap and LLE | | **HW 2 Due** |
 | Th 10/17 | | | |
 | Tu 10/22 | | | |
 | Th 10/24 | | | |
