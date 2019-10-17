@@ -17,9 +17,9 @@
 | Tu 10/8  | *Reading Day -- No Class* | | |
 | Th 10/10 | Introduction to Manifold Learning:<br>Multidimensional Scaling | [Cayton, 2005](http://www.lcayton.com/resexam.pdf) | |
 | Tu 10/15 | Isomap and LLE | | **HW 2 Due** |
-| Th 10/17 | Autoencoders / Variational Autoenconders (VAEs) | | |
-| Tu 10/22 | VAEs, cont. | | |
-| Th 10/24 | *Guest Lecturer: Hang Shao*<br>Riemannian Geometry of Generative Neural Networks | | |
+| Th 10/17 | Autoencoders | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
+| Tu 10/22 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
+| Th 10/24 | *Guest Lecturer: Hang Shao*<br>Riemannian Geometry of Generative Neural Networks | [Shao et al. 2018 (optional)](https://arxiv.org/abs/1711.08014) | |
 | Tu 10/29 | | | |
 | Th 10/31 | | | |
 | Tu 11/5  | | | |
