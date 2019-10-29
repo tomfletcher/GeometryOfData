@@ -17,14 +17,14 @@
 | Tu 10/8  | *Reading Day -- No Class* | | |
 | Th 10/10 | Introduction to Manifold Learning:<br>Multidimensional Scaling | [Cayton, 2005](http://www.lcayton.com/resexam.pdf) | |
 | Tu 10/15 | Isomap and LLE | | **HW 2 Due** |
-| Th 10/17 | Autoencoders | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
-| Tu 10/22 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
+| Th 10/17 | Manifold geometry of neural networks |  | |
+| Tu 10/22 | Autoencoders | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
 | Th 10/24 | *Guest Lecturer: Hang Shao*<br>Riemannian Geometry of Generative Neural Networks | [Shao et al. 2018 (optional)](https://arxiv.org/abs/1711.08014) | |
-| Tu 10/29 | | | |
-| Th 10/31 | | | |
+| Tu 10/29 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | [HW 3](homeworks/hw3/hw3.pdf), Due Tu 11/12<br>[code and data](https://github.com/tomfletcher/GeometryOfData/tree/master/homeworks/hw3/) |
+| Th 10/31 | Generative Adversarial Nets (GANs) | [Goodfellow, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) | |
 | Tu 11/5  | | | |
 | Th 11/7  | | | |
-| Tu 11/12 | | | |
+| Tu 11/12 | | | **HW 3 Due** |
 | Th 11/14 | | | |
 | Tu 11/19 | | | |
 | Th 11/21 | | | |
