@@ -24,9 +24,9 @@
 | Th 10/31 | VAEs cont. | | |
 | Tu 11/5  | Lie Groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
 | Th 11/7  | Lie Group Actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.2)<br> | |
-| Tu 11/12 | Generative Adversarial Nets (GANs) | [Goodfellow, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) | **HW 3 Due** |
+| Tu 11/12 | Generative Adversarial Nets (GANs) | [Goodfellow, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) | |
 | Th 11/14 | | | |
-| Tu 11/19 | | | |
+| Tu 11/19 | | | **HW 3 Due** |
 | Th 11/21 | | | |
 | Tu 11/26 | | | |
 | Th 11/28 | | | |
