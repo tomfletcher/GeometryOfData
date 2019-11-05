@@ -21,10 +21,10 @@
 | Tu 10/22 | Autoencoders | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
 | Th 10/24 | *Guest Lecturer: Hang Shao*<br>Riemannian Geometry of Generative Neural Networks | [Shao et al. 2018 (optional)](https://arxiv.org/abs/1711.08014) | |
 | Tu 10/29 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | [HW 3](homeworks/hw3/hw3.pdf), Due Tu 11/12<br>[code and data](https://github.com/tomfletcher/GeometryOfData/tree/master/homeworks/hw3/) |
-| Th 10/31 | Generative Adversarial Nets (GANs) | [Goodfellow, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) | |
-| Tu 11/5  | | | |
-| Th 11/7  | | | |
-| Tu 11/12 | | | **HW 3 Due** |
+| Th 10/31 | VAEs cont. | | |
+| Tu 11/5  | Lie Groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
+| Th 11/7  | Lie Group Actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.2)<br> | |
+| Tu 11/12 | Generative Adversarial Nets (GANs) | [Goodfellow, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) | **HW 3 Due** |
 | Th 11/14 | | | |
 | Tu 11/19 | | | |
 | Th 11/21 | | | |
