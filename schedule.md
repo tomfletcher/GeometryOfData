@@ -22,11 +22,11 @@
 | Th 10/24 | *Guest Lecturer: Hang Shao*<br>Riemannian Geometry of Generative Neural Networks | [Shao et al. 2018 (optional)](https://arxiv.org/abs/1711.08014) | |
 | Tu 10/29 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | [HW 3](homeworks/hw3/hw3.pdf), Due Tu 11/12<br>[code and data](https://github.com/tomfletcher/GeometryOfData/tree/master/homeworks/hw3/) |
 | Th 10/31 | VAEs cont. | | |
-| Tu 11/5  | Lie Groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
-| Th 11/7  | Lie Group Actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.2)<br> | |
-| Tu 11/12 | Generative Adversarial Nets (GANs) | [Goodfellow, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) | |
-| Th 11/14 | | | |
-| Tu 11/19 | | | **HW 3 Due** |
+| Tu 11/5  | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
+| Th 11/7  | Lie algebras | | |
+| Tu 11/12 | Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.2) | |
+| Th 11/14 | Lie exponential and log maps | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | |
+| Tu 11/19 | Generative adversarial nets (GANs) | [Goodfellow, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) | **HW 3 Due** |
 | Th 11/21 | | | |
 | Tu 11/26 | | | |
 | Th 11/28 | | | |
