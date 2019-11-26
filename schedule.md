@@ -26,9 +26,9 @@
 | Th 11/7  | Lie algebras | | |
 | Tu 11/12 | Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.2) | |
 | Th 11/14 | Lie exponential and log maps | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | |
-| Tu 11/19 | Generative adversarial nets (GANs) | [Goodfellow, 2014](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) | **HW 3 Due** |
-| Th 11/21 | | | |
-| Tu 11/26 | | | |
-| Th 11/28 | | | |
-| Tu 12/3  | | | |
+| Tu 11/19 | Information theory basics, entropy | | **HW 3 Due** |
+| Th 11/21 | Kullback-Leibler divergence | | |
+| Tu 11/26 | Fisher information and natural gradient | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
+| Th 11/28 | *Thanksgiving -- no class* | | |
+| Tu 12/3  | Information geometry, cont. | | |
 | Th 12/5  | | | |
