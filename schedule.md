@@ -30,5 +30,5 @@
 | Th 11/21 | Kullback-Leibler divergence | | |
 | Tu 11/26 | Fisher information and natural gradient | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
 | Th 11/28 | *Thanksgiving -- no class* | | |
-| Tu 12/3  | Information geometry, cont. | | |
+| Tu 12/3  | Information geometry of Gaussians | | [HW 4](homeworks/hw4.pdf), Due Tu 12/17 |
 | Th 12/5  | | | |
