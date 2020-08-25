@@ -10,13 +10,10 @@ machine learning and data analysis.
 ## Logistics
 
 * **Time:** Tue/Thu 2:00 - 3:15 PM
-* **Location:** Mechanical Engineering Building 341
+* **Location:** Zoom
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
-  - Office Hours: Wednesdays 3:00 - 4:00 PM, after class
-  - Office: Rice 306
-* **TA:** Hang Shao (hs7uq *AT* virginia *DOT* edu)
-  - Office Hours: Mondays and Tuesdays 3:30 - 4:30 PM
-  - Office: Rice 340
+  - Office Hours: TBA
+
 * **Prerequisites:** You should have basic (undergraduate level) knowledge of Probability, Linear Algebra, Multivariate Calculus, and be comfortable programming in Python
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
 
