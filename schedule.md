@@ -9,7 +9,7 @@
 | Tu 9/8   | Manifold Basics, cont. | | |
 | Th 9/10  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
 | Tu 9/15  | Riemannian Geometry, cont. | | |
-| Th 9/17  | Statistics on Manifolds: Frechet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | [HW 2](homeworks/hw2.pdf), Due Tu 10/15 <br> [tex](homeworks/hw2.tex) |
+| Th 9/17  | Statistics on Manifolds: Frechet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
 | Tu 9/22  | Introduction to Shape Manifolds: Kendall's Shape Space | | |
 | Th 9/24  | Statistics on Manifolds: Principal Geodesic Analysis | [Fletcher 2019, Section 3](https://collab.its.virginia.edu/x/xe68yz) | |
 | Tu 9/29  | Statistics on Manifolds, cont.<br>PCA Refresher | | |
