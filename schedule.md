@@ -3,12 +3,12 @@
 | Day      | Title / Notes                                                      | Reading       | Homework                              |
 |----------|--------------------------------------------------------------------|---------------|---------------------------------------|
 | Tu 8/25  | [Introduction](lectures/L01-Introduction.pdf) | | |
-| Th 8/27  | Topology Basics | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | |
+| Th 8/27  | Topology Basics | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | [HW 1](homeworks/hw1.pdf), Due Tu 9/15 |
 | Tu 9/1   | Topology Basics, cont. | | |
 | Th 9/3   | Manifold Basics | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Tu 9/8   | Manifold Basics, cont. | | |
 | Th 9/10  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
-| Tu 9/15  | Riemannian Geometry, cont. | | |
+| Tu 9/15  | Riemannian Geometry, cont. | | **HW 1 Due** |
 | Th 9/17  | Statistics on Manifolds: Frechet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
 | Tu 9/22  | Introduction to Shape Manifolds: Kendall's Shape Space | | |
 | Th 9/24  | Statistics on Manifolds: Principal Geodesic Analysis | [Fletcher 2019, Section 3](https://collab.its.virginia.edu/x/xe68yz) | |
