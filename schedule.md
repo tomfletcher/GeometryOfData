@@ -10,13 +10,13 @@
 | Th 9/10  | Manifold Basics, cont. | | |
 | Tu 9/15  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | **HW 1 Due** |
 | Th 9/17  | Riemannian Geometry, cont. | | |
-| Tu 9/22  | Statistics on Manifolds: Frechet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
+| Tu 9/22  | [Statistics on Manifolds: Frechet Mean](lectures/FrechetMean.pdf) | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | [HW 2](homeworks/hw2.pdf), Due Tu 10/13 |
 | Th 9/24  | Introduction to Shape Manifolds: Kendall's Shape Space | | |
 | Tu 9/29  | Statistics on Manifolds: Principal Geodesic Analysis | [Fletcher 2019, Section 3](https://collab.its.virginia.edu/x/xe68yz) | |
 | Th 10/1  | Statistics on Manifolds, cont.<br>PCA Refresher | | |
 | Tu 10/6  | Introduction to Manifold Learning:<br>Multidimensional Scaling | [Cayton, 2005](http://www.lcayton.com/resexam.pdf) | |
 | Th 10/8  | Isomap and LLE | | |
-| Tu 10/13 | Manifold geometry of neural networks |  | |
+| Tu 10/13 | Manifold geometry of neural networks |  | **HW 2 Due** |
 | Th 10/15 | Autoencoders | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
 | Tu 10/20 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Th 10/22 | VAEs cont. | | |
