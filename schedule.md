@@ -15,16 +15,16 @@
 | Tu 9/29  | Statistics on Manifolds: Principal Geodesic Analysis<br>[PCA Refresher](lectures/PCARefresher.pdf) | [Fletcher 2019, Section 3](https://collab.its.virginia.edu/x/5pSrlx) | |
 | Th 10/1  | Statistics on Manifolds, cont. | | |
 | Tu 10/6  | Introduction to Manifold Learning:<br>Multidimensional Scaling | [Cayton, 2005](http://www.lcayton.com/resexam.pdf) | |
-| Th 10/8  | Isomap and LLE | | |
-| Tu 10/13 | Manifold geometry of neural networks |  | **HW 2 Due** |
-| Th 10/15 | Autoencoders | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
-| Tu 10/20 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
-| Th 10/22 | VAEs cont. | | |
+| Th 10/8  | *no lecture* | | |
+| Tu 10/13 | MDS cont., Isomap |  |  |
+| Th 10/15 | Manifold geometry of neural networks |  | **HW 2 Due Friday** |
+| Tu 10/20 | Autoencoders | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | [HW 3](homeworks/hw3/hw3.pdf), Due Tu 11/10<br>[data and notebook](homeworks/hw3/) |
+| Th 10/22 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Tu 10/27 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
 | Th 10/29 | Lie algebras | | |
 | Tu 11/3  | Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.2) | |
 | Th 11/5  | Lie exponential and log maps | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | |
-| Tu 11/10 | Information theory basics, entropy | | |
+| Tu 11/10 | Information theory basics, entropy | | **HW 3 Due** |
 | Th 11/12 | Kullback-Leibler divergence | | |
 | Tu 11/17 | Fisher information and natural gradient | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
 | Th 11/19 | Information geometry of Gaussians | | |
