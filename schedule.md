@@ -18,7 +18,7 @@
 | Th 10/8  | *no lecture* | | |
 | Tu 10/13 | MDS cont., Isomap |  |  |
 | Th 10/15 | Manifold geometry of neural networks |  | **HW 2 Due Friday** |
-| Tu 10/20 | Autoencoders | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | [HW 3](homeworks/hw3/hw3.pdf), Due Tu 11/10<br>[data and notebook](homeworks/hw3/) |
+| Tu 10/20 | Autoencoders | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | [HW 3](homeworks/hw3/hw3.pdf), Due Tu 11/10<br>[data and notebook](https://github.com/tomfletcher/GeometryOfData/tree/master/homeworks/hw3/) |
 | Th 10/22 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Tu 10/27 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
 | Th 10/29 | Lie algebras | | |
