@@ -18,14 +18,14 @@
 | Th 10/8  | *no lecture* | | |
 | Tu 10/13 | MDS cont., Isomap |  |  |
 | Th 10/15 | Manifold geometry of neural networks |  | **HW 2 Due Friday** |
-| Tu 10/20 | Autoencoders | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | [HW 3](homeworks/hw3/hw3.pdf), Due Tu 11/10<br>[data and notebook](https://github.com/tomfletcher/GeometryOfData/tree/master/homeworks/hw3/) |
+| Tu 10/20 | Autoencoders | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | [HW 3](homeworks/hw3/hw3.pdf), Due Tu 11/17<br>[data and notebook](https://github.com/tomfletcher/GeometryOfData/tree/master/homeworks/hw3/) |
 | Th 10/22 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
-| Tu 10/27 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
-| Th 10/29 | Lie algebras | | |
-| Tu 11/3  | Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.2) | |
+| Tu 10/27 | VAEs, cont. | | |
+| Th 10/29 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
+| Tu 11/3  | Lie algebras, Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.2) | |
 | Th 11/5  | Lie exponential and log maps | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | |
-| Tu 11/10 | Information theory basics, entropy | | **HW 3 Due** |
+| Tu 11/10 | Information theory basics, entropy | | |
 | Th 11/12 | Kullback-Leibler divergence | | |
-| Tu 11/17 | Fisher information and natural gradient | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
+| Tu 11/17 | Fisher information and natural gradient | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | **HW 3 Due** |
 | Th 11/19 | Information geometry of Gaussians | | |
 | Tu 11/24 | Hamiltonian Monte Carlo | [Neal, 2011](https://arxiv.org/pdf/1206.1901.pdf)<br> [Ghahramani, 2016 (slides)](http://bayesiandeeplearning.org/2016/slides/nips16bayesdeep.pdf)<br>[Saatchi and Wilson, 2017](https://arxiv.org/abs/1705.09558) | |
