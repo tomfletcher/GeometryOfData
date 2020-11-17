@@ -26,6 +26,6 @@
 | Th 11/5  | Lie exponential and log maps | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | |
 | Tu 11/10 | Information theory basics, entropy | | |
 | Th 11/12 | Kullback-Leibler divergence | | |
-| Tu 11/17 | Fisher information and natural gradient | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | **HW 3 Due** |
+| Tu 11/17 | Fisher information and natural gradient | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | [HW 4](homeworks/hw4.pdf), Due Tu 12/8<br>**HW 3 Due** |
 | Th 11/19 | Information geometry of Gaussians | | |
 | Tu 11/24 | Hamiltonian Monte Carlo | [Neal, 2011](https://arxiv.org/pdf/1206.1901.pdf)<br> [Ghahramani, 2016 (slides)](http://bayesiandeeplearning.org/2016/slides/nips16bayesdeep.pdf)<br>[Saatchi and Wilson, 2017](https://arxiv.org/abs/1705.09558) | |
