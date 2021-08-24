@@ -1,6 +1,6 @@
 ## Policies
 
-**Getting Help.** Take advantage of office hours. I will work hard to be accessible to students (including those of you in different time zones!). Please send me email if you need to meet outside of scheduled office hours. Don't be shy if you don't understand something: come to office hours, send email, or speak up in class! We will use Piazza for asking questions, discussing topics from class, and getting help on homeworks. I encourage you to post questions there publicly for the entire class and to chime in with answers to other students' questions.
+**Getting Help.** Take advantage of office hours. We will work hard to be accessible to students. Please send us email if you need to meet outside of scheduled office hours. Don't be shy if you don't understand something: come to office hours, send email, or speak up in class! We will use Piazza for asking questions, discussing topics from class, and getting help on homeworks. I encourage you to post questions there publicly for the entire class and to chime in with answers to other students' questions.
 
 **Announcements.** Important announcements, such as assignment corrections or deadline changes, will be sent to the class via the Collab announcements for this class. Make sure that you have setup Collab to send you announcements to an email address that you will check regularly, as they may be time-sensitive.
 
@@ -10,7 +10,7 @@ Homework assignments will entail writing Python code to solve problems as well a
 
 Homeworks are due by 11:59 PM on the due date. Late assignments will receive a 10% deduction during the first 24 hours they are late, and a 20% deduction if they are 24-48 hours late. Assignments will not be accepted beyond 48 hours late.
 
-If you believe there is an error in grading (homeworks or exams), you may request a regrading within one week of receiving your grade. Requests must be made in writing by email, explaining clearly why you think there was an error in your grade.
+If you believe there is an error in grading, you may request a regrading within one week of receiving your grade. Requests must be made in writing by email, explaining clearly why you think there was an error in your grade.
 
 **Working Together.** You are welcome to discuss the concepts in a homework
 assignment with your fellow classmates. However, you must develop and write up
