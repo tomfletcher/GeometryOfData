@@ -23,3 +23,12 @@ machine learning and data analysis.
 Manfredo do Carmo, *Riemannian Geometry*
 
 Sigmundur Gudmundsson, [*Introduction to Riemannian Geometry*](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf)
+
+## Example Jupyter Notebooks
+
+For those of you who are relatively new to Jupyter, here are a few notebooks that you might find useful (from my undergraduate course [Foundations of Data Analysis](https://tomfletcher.github.io/FoDA/).)
+
+* [LaTeX math notation guide](https://tomfletcher.github.io/FoDA/examples/MathNotationGuide.ipynb)
+* [Data plots in Python](https://tomfletcher.github.io/FoDA/examples/SimpleDataPlots.ipynb)
+* [Singular value decomposition](https://tomfletcher.github.io/FoDA/examples/SVD.ipynb)
+* [Multiple linear regression](https://tomfletcher.github.io/FoDA/examples/MultipleLinearRegression.ipynb)
