@@ -3,12 +3,12 @@
 | Day      | Title / Notes                                                      | Reading       | Homework                              |
 |----------|--------------------------------------------------------------------|---------------|---------------------------------------|
 | Tu 8/24  | [Introduction](lectures/L01-Introduction.pdf) | | |
-| Th 8/26  | Intro, cont. | | |
+| Th 8/26  | Intro, cont. | | [HW 1](homeworks/hw1.pdf), Due Tu 9/14 |
 | Tu 8/31  | Topology Basics | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | |
 | Th 9/2   | Topology Basics, cont. | | |
 | Tu 9/7   | Manifold Basics | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Th 9/9   | Manifold Basics, cont. | | |
-| Tu 9/14  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
+| Tu 9/14  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | **HW 1 Due** |
 | Th 9/16  | Riemannian Geometry, cont. | | |
 | Tu 9/21  | [Statistics on Manifolds: Frechet Mean](lectures/FrechetMean.pdf) | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
 | Th 9/23  | [Introduction to Shape Manifolds: Kendall's Shape Space](lectures/ShapeManifolds.pdf) | [Kendall, 1984](http://image.diku.dk/imagecanon/material/kendall-shapes.pdf) | |
