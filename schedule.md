@@ -21,7 +21,7 @@
 | Tu 10/19 |  | |  |
 | Th 10/21 |  | | |
 | Tu 10/26 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
-| Th 10/28 | Neural networks, cont. | | [HW 3](homeworks/hw3/hw3.pdf), Due Th 11/18 |
+| Th 10/28 | Neural networks, cont. | | [HW 3](homeworks/hw3/hw3.pdf), Due Th 11/18<br>[notebook and data](https://github.com/tomfletcher/GeometryOfData/tree/master/homeworks/hw3/) |
 | Tu 11/2  | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Th 11/4  | VAEs, cont. | | |
 | Tu 11/9  | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
