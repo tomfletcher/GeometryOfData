@@ -18,17 +18,18 @@
 | Th 10/7  | Introduction to Manifold Learning:<br>Multidimensional Scaling | [Cayton, 2005](http://www.lcayton.com/resexam.pdf) | |
 | Tu 10/12 | *Reading Day -- No Class* |  |  |
 | Th 10/14 | MDS cont., Isomap |  | **HW 2 Due** |
-| Tu 10/19 | Manifold geometry of neural networks | |  |
-| Th 10/21 | Autoencoders | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
-| Tu 10/26 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
-| Th 10/28 | VAEs, cont. | | |
-| Tu 11/2  | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
-| Th 11/4  | Lie algebras, Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.2) | |
-| Tu 11/9  | Lie exponential and log maps | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | |
-| Th 11/11 | Information theory basics, entropy | | |
-| Tu 11/16 | Kullback-Leibler divergence | |  |
-| Th 11/18 | Fisher information and natural gradient | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
-| Tu 11/23 | Information geometry of Gaussians | | |
-| Tu 11/30 | Hamiltonian Monte Carlo | [Neal, 2011](https://arxiv.org/pdf/1206.1901.pdf)<br> [Ghahramani, 2016 (slides)](http://bayesiandeeplearning.org/2016/slides/nips16bayesdeep.pdf)<br>[Saatchi and Wilson, 2017](https://arxiv.org/abs/1705.09558) | |
-| Tu 12/2  | | | |
-| Tu 12/7  | | | |
+| Tu 10/19 |  | |  |
+| Th 10/21 |  | | |
+| Tu 10/26 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
+| Th 10/28 | Neural networks, cont. | | [HW 3](homeworks/hw3/hw3.pdf), Due Th 11/18 |
+| Tu 11/2  | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
+| Th 11/4  | VAEs, cont. | | |
+| Tu 11/9  | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
+| Th 11/11 | Lie algebras, Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.2) | |
+| Tu 11/16 | Lie exponential and log maps |  Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) |  |
+| Th 11/18 | Information theory basics, entropy | | **HW 3 Due** |
+| Tu 11/23 | Kullback-Leibler divergence | | |
+| Th 11/25 | *Thanksgiving -- No Class* | | |
+| Tu 11/30 | Fisher information and natural gradient | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
+| Th 12/2  | Information geometry of Gaussians | | |
+| Tu 12/7  | Hamiltonian Monte Carlo | [Neal, 2011](https://arxiv.org/pdf/1206.1901.pdf)<br> [Ghahramani, 2016 (slides)](http://bayesiandeeplearning.org/2016/slides/nips16bayesdeep.pdf)<br>[Saatchi and Wilson, 2017](https://arxiv.org/abs/1705.09558) | |
