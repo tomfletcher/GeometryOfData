@@ -25,7 +25,7 @@
 | Tu 11/2  | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Th 11/4  | VAEs, cont. | | |
 | Tu 11/9  | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
-| Th 11/11 | Lie algebras, Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.2) | |
+| Th 11/11 | Lie algebras, Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | |
 | Tu 11/16 | Lie exponential and log maps |  Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) |  |
 | Th 11/18 | Information theory basics, entropy | | **HW 3 Due** |
 | Tu 11/23 | Kullback-Leibler divergence | | |
