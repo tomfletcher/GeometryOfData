@@ -27,9 +27,9 @@
 | Tu 11/9  | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
 | Th 11/11 | Lie algebras, Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | |
 | Tu 11/16 | Lie exponential and log maps |  Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) |  |
-| Th 11/18 | Information theory basics, entropy | | [HW 4](homeworks/hw4.pdf), Due Sat 12/11 **(no late days or extension!)** |
-| Tu 11/23 | Kullback-Leibler divergence | | **HW 3 Due** |
+| Th 11/18 | Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | [HW 4](homeworks/hw4.pdf), Due Sat 12/11 **(no late days or extension!)** |
+| Tu 11/23 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | **HW 3 Due** |
 | Th 11/25 | *Thanksgiving -- No Class* | | |
-| Tu 11/30 | Fisher information and natural gradient | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
-| Th 12/2  | Information geometry of Gaussians | | |
+| Tu 11/30 | Information theory basics, entropy | | |
+| Th 12/2  | Kullback-Leibler divergence | | |
 | Tu 12/7  | Hamiltonian Monte Carlo | [Neal, 2011](https://arxiv.org/pdf/1206.1901.pdf)<br> [Ghahramani, 2016 (slides)](http://bayesiandeeplearning.org/2016/slides/nips16bayesdeep.pdf)<br>[Saatchi and Wilson, 2017](https://arxiv.org/abs/1705.09558) | |
