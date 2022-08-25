@@ -3,12 +3,12 @@
 | Day      | Title / Notes                                                      | Reading       | Homework                              |
 |----------|--------------------------------------------------------------------|---------------|---------------------------------------|
 | Tu 8/23  | [Introduction](lectures/L01-Introduction.pdf) | | |
-| Th 8/25  | Intro, cont. | | |
+| Th 8/25  | Intro, cont. | | [HW 1](homeworks/hw1.pdf), Due Tu 9/13 |
 | Tu 8/30  | Topology Basics | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | |
 | Th 9/1   | Topology Basics, cont. | | |
 | Tu 9/6   | Manifold Basics | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Th 9/8   | Manifold Basics, cont. | | |
-| Tu 9/13  | Manifold Basics, cont. |  | |
+| Tu 9/13  | Manifold Basics, cont. |  | **HW 1 Due** |
 | Th 9/15  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
 | Tu 9/20  | Riemannian Geometry, cont.  | | |
 | Th 9/22  | Statistics on Manifolds: Frechet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
@@ -24,7 +24,7 @@
 | Th 10/27 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Tu 11/1  | VAEs, cont. |  | |
 | Th 11/3  |  Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
-| Tu 11/8  | *Election Day -- No Class** |  | |
+| Tu 11/8  | *Election Day -- No Class* |  | |
 | Th 11/10 | Lie algebras, Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | |
 | Tu 11/15 | Lie exponential and log maps |  Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) |  |
 | Th 11/17 | Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | |
