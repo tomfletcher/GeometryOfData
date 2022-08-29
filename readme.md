@@ -12,13 +12,13 @@ machine learning and data analysis.
 * **Time:** Tue/Thu 2:00 - 3:15 PM
 * **Location:** Olsson 005 / Zoom
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
-  - Office Hours: TBA
+  - Office Hours: Wednesdays, 11 AM - 12 noon, Rice 306
 * **TA:** Yinzhu Jin (yj3cz *AT* virginia *DOT* edu)
-  - Office Hours: TBA
+  - Office Hours: Mondays, 2 - 3 PM, Rice 414
 * **TA:** Xingbo Fu (xf3av *AT* virginia *DOT* edu)
-  - Office Hours: TBA
+  - Office Hours: Thursdays, 3:30 - 4:30 PM, Rice 414
 * **TA:** Aman Shrivastava (as3ek *AT* virginia *DOT* edu)
-  - Office Hours: TBA
+  - Office Hours: Tuesdays, 3:30 - 4:30 PM, Rice 414
 * **Prerequisites:** You should have basic (undergraduate level) knowledge of Probability, Linear Algebra, Multivariate Calculus, and be comfortable programming in Python
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
 
