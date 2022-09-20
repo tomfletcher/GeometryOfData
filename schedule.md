@@ -8,16 +8,16 @@
 | Th 9/1   | Topology Basics, cont. | | |
 | Tu 9/6   | Manifold Basics | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Th 9/8   | Manifold Basics, cont. | | |
-| Tu 9/13  | Manifold Basics, cont. |  | **HW 1 Due** |
-| Th 9/15  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
-| Tu 9/20  | Riemannian Geometry, cont.  | | |
-| Th 9/22  | Statistics on Manifolds: Frechet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
-| Tu 9/27  | Introduction to Shape Manifolds: Kendall's Shape Space | [Kendall, 1984](http://image.diku.dk/imagecanon/material/kendall-shapes.pdf) | |
-| Th 9/29  | Shape Manifolds, cont. | | |
+| Tu 9/13  | *Tom out sick! -- No Class* |  | **HW 1 Due** |
+| Th 9/15  | Tangent Spaces | | |
+| Tu 9/20  | Riemannian Geometry  | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | [HW 2](homeworks/hw2.pdf), Due Th 10/13 |
+| Th 9/22  | Riemannian Geometry, cont. |  | |
+| Tu 9/27  | Statistics on Manifolds: Frechet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
+| Th 9/29  | Introduction to Shape Manifolds: Kendall's Shape Space | [Kendall, 1984](http://image.diku.dk/imagecanon/material/kendall-shapes.pdf) | |
 | Tu 10/4  | *Reading Day -- No Class* | | |
 | Th 10/6  | Statistics on Manifolds: Principal Geodesic Analysis<br>[PCA Refresher](lectures/PCARefresher.pdf) | Fletcher 2019, Section 3 | |
 | Tu 10/11 | Introduction to Manifold Learning:<br>Multidimensional Scaling | [Cayton, 2005](http://www.lcayton.com/resexam.pdf) |  |
-| Th 10/13 | MDS cont., Isomap | | |
+| Th 10/13 | MDS cont., Isomap | | **HW 2 Due** |
 | Tu 10/18 | Manifold Learning, cont. | |  |
 | Th 10/20 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
 | Tu 10/25 | Neural networks, cont. |  | |
