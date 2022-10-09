@@ -15,7 +15,7 @@
 | Tu 9/27  | [Introduction to Shape Manifolds: Kendall's Shape Space](lectures/ShapeManifolds.pdf) | [Kendall, 1984](http://image.diku.dk/imagecanon/material/kendall-shapes.pdf) | |
 | Th 9/29  | [Statistics on Manifolds: Frechet Mean](lectures/FrechetMean.pdf) | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
 | Tu 10/4  | *Reading Day -- No Class* | | |
-| Th 10/6  | Statistics on Manifolds: Principal Geodesic Analysis<br>[PCA Refresher](lectures/PCARefresher.pdf) | Fletcher 2019, Section 3 | |
+| Th 10/6  | [Statistics on Manifolds: Principal Geodesic Analysis](lectures/PGA.pdf) | [Fletcher 2019, Section 3](https://collab.its.virginia.edu/access/content/group/c7c484b7-8096-48a7-bf2f-893b0da6266f/Fletcher2019-StatisticsOnManifolds.pdf) | |
 | Tu 10/11 | Introduction to Manifold Learning:<br>Multidimensional Scaling | [Cayton, 2005](http://www.lcayton.com/resexam.pdf) |  |
 | Th 10/13 | MDS cont., Isomap | | **HW 2 Due** |
 | Tu 10/18 | Manifold Learning, cont. | |  |
