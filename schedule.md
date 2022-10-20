@@ -17,8 +17,8 @@
 | Tu 10/4  | *Reading Day -- No Class* | | |
 | Th 10/6  | [Statistics on Manifolds: Principal Geodesic Analysis](lectures/PGA.pdf) | [Fletcher 2019, Section 3](https://collab.its.virginia.edu/access/content/group/c7c484b7-8096-48a7-bf2f-893b0da6266f/Fletcher2019-StatisticsOnManifolds.pdf) | |
 | Tu 10/11 | Introduction to Manifold Learning:<br>Multidimensional Scaling | [Cayton, 2005](http://www.lcayton.com/resexam.pdf) |  |
-| Th 10/13 | MDS cont., Isomap | | **HW 2 Due** |
-| Tu 10/18 | Manifold Learning, cont. | |  |
+| Th 10/13 | MDS cont., Isomap | [Tenenbaum, de Silva, Langford, 2000](https://wearables.cc.gatech.edu/paper_of_week/isomap.pdf) | **HW 2 Due** |
+| Tu 10/18 | Local Linear Embedding, Laplacian Eigenmaps | [Roweis & Saul, 2000](http://www.sciencemag.org/cgi/reprint/290/5500/2323.pdf)<br>[Belkin & Niyogi, 2003](https://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf) | |
 | Th 10/20 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
 | Tu 10/25 | Neural networks, cont. |  | |
 | Th 10/27 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
