@@ -21,7 +21,7 @@
 | Tu 10/18 | Local Linear Embedding, Laplacian Eigenmaps | [Roweis & Saul, 2000](http://www.sciencemag.org/cgi/reprint/290/5500/2323.pdf)<br>[Belkin & Niyogi, 2003](https://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf) | |
 | Th 10/20 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
 | Tu 10/25 | Neural networks, cont. |  | |
-| Th 10/27 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
+| Th 10/27 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Tu 11/1  | VAEs, cont. |  | |
 | Th 11/3  |  Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
 | Tu 11/8  | *Election Day -- No Class* |  | |
