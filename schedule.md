@@ -21,12 +21,12 @@
 | Tu 10/18 | Local Linear Embedding, Laplacian Eigenmaps | [Roweis & Saul, 2000](http://www.sciencemag.org/cgi/reprint/290/5500/2323.pdf)<br>[Belkin & Niyogi, 2003](https://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf) | |
 | Th 10/20 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
 | Tu 10/25 | Neural networks, cont. |  | |
-| Th 10/27 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | [HW 3](homeworks/hw3/), Due Th 11/17 |
-| Tu 11/1  | VAEs, cont. |  | |
-| Th 11/3  |  Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
+| Th 10/27 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | [HW 3](homeworks/hw3/hw3.pdf), Due Th 11/17<br>[notebook and data](https://github.com/tomfletcher/GeometryOfData/tree/master/homeworks/hw3/) |
+| Tu 11/1  | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
+| Th 11/3  | Lie algebras, Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | |
 | Tu 11/8  | *Election Day -- No Class* |  | |
-| Th 11/10 | Lie algebras, Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | |
-| Tu 11/15 | Lie exponential and log maps |  Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) |  |
+| Th 11/10 | Lie exponential and log maps | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | |
+| Tu 11/15 | TBD |  |  |
 | Th 11/17 | Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | **HW 3 Due** |
 | Tu 11/22 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
 | Th 11/24 | *Thanksgiving -- No Class* | | |
