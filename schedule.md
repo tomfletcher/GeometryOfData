@@ -26,9 +26,9 @@
 | Th 11/3  | Lie algebras, Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | |
 | Tu 11/8  | *Election Day -- No Class* |  | |
 | Th 11/10 | Lie exponential and log maps | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | |
-| Tu 11/15 | TBD |  |  |
-| Th 11/17 | Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | **HW 3 Due** |
-| Tu 11/22 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
+| Tu 11/15 | *Class canceled* |  |  |
+| Th 11/17 | Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | |
+| Tu 11/22 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | [HW 4](homeworks/hw4.pdf), Due Th 12/8 |
 | Th 11/24 | *Thanksgiving -- No Class* | | |
 | Tu 11/29 | Information theory basics, entropy | | |
 | Th 12/1  | Kullback-Leibler divergence | | |
