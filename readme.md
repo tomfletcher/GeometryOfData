@@ -1,24 +1,14 @@
 ## Description
 
-Modern data are high-dimensional, for example, images with millions of pixels,
-text corpora with millions of words, gene sequences with billions of base pairs,
-etc. However, these data tend to concentrate on lower-dimensional, nonlinear
-subspaces known as manifolds. This class covers the mathematical theory of
-high-dimensional geometry and manifolds and the application of this geometry to
-machine learning and data analysis.
+Modern data are high-dimensional, multi-modal, and large-scale, for example, images with millions of pixels, text corpora with millions of words, gene sequences with billions of base pairs, etc. However, these data tend to concentrate on lower-dimensional, nonlinear subspaces known as manifolds. Learning and sampling from this real distribution, hence, is of tremendous value. This class covers the mathematical theory of
+high-dimensional geometry and manifolds and how it applies to the latest advances in artificial intelligence.
 
 ## Logistics
 
 * **Time:** Tue/Thu 2:00 - 3:15 PM
-* **Location:** Olsson 005 / Zoom
-* **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
-  - Office Hours: Wednesdays, 11 AM - 12 noon, Rice 306
-* **TA:** Yinzhu Jin (yj3cz *AT* virginia *DOT* edu)
-  - Office Hours: Mondays, 2 - 3 PM, Rice 414
-* **TA:** Xingbo Fu (xf3av *AT* virginia *DOT* edu)
-  - Office Hours: Thursdays, 3:30 - 4:30 PM, Rice 414
-* **TA:** Aman Shrivastava (as3ek *AT* virginia *DOT* edu)
-  - Office Hours: Tuesdays, 3:30 - 4:30 PM, Rice 414
+* **Location:** Thronton E316 / Zoom
+* **Instructors:** [Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) (ptf8v *AT* virginia *DOT* edu) and [Aman Shrivastava](https://4m4n5.github.io/) (as3ek *AT* virginia *DOT* edu)
+  - Office Hours: TBA
 * **Prerequisites:** You should have basic (undergraduate level) knowledge of Probability, Linear Algebra, Multivariate Calculus, and be comfortable programming in Python
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
 
