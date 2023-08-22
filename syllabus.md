@@ -29,4 +29,9 @@ The following topics will be covered, subject to changes. See the course web pag
 
 * *Information Geometry*
 
-* *Manifolds in Deep Learning*
+* *Manifolds in Deep Learning and AI Application*
+  - Supervised Learning
+  - Unsupervised Learning
+  - Graph Learning
+  - Self-supervised Learning
+  - Generative Modeling
