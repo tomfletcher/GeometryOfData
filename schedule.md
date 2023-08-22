@@ -2,7 +2,7 @@
 
 | Day      | Title / Notes                                                      | Reading       | Homework                              |
 |----------|--------------------------------------------------------------------|---------------|---------------------------------------|
-| Tu 8/22  | [Introduction](lectures/L01-Introduction.pdf) | | |
+| Tu 8/22  | [Introduction](lectures/L01-IntroductionV1.pdf) | | |
 | Th 8/24  | Topology Basics | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | |
 | Tu 8/29  | Manifold Basics | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Th 8/31  | | | |
