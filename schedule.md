@@ -3,12 +3,12 @@
 | Day      | Title / Notes                                                      | Reading       | Homework                              |
 |----------|--------------------------------------------------------------------|---------------|---------------------------------------|
 | Tu 8/22  | [Introduction](lectures/L01-IntroductionV1.pdf) | | |
-| Th 8/24  | Topology Basics | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | |
+| Th 8/24  | Topology Basics | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | [HW 1](homeworks/hw1.pdf), Due Tu 9/12 |
 | Tu 8/29  | Topology Basics contd. | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | |
 | Th 8/31  | Manifold Basics | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Tu 9/5   | Manifold Basics contd. | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Th 9/7   | | | |
-| Tu 9/12  | | | |
+| Tu 9/12  | | | **HW 1 Due** |
 | Th 9/14  | | | |
 | Tu 9/19  | | | |
 | Th 9/21  | | | |
