@@ -9,13 +9,13 @@
 | Tu 9/5   | Manifold Basics cont. | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Th 9/7   | Tangent Spaces | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Tu 9/12  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | **HW 1 Due** |
-| Th 9/14  | Riemannian Geometry, cont. | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
+| Th 9/14  | Riemannian Geometry, cont. | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | [HW 2](homeworks/hw2.pdf), Due Th 10/5 |
 | Tu 9/19  | [Introduction to Shape Manifolds: Kendall's Shape Space](lectures/ShapeManifolds.pdf) | [Kendall, 1984](http://image.diku.dk/imagecanon/material/kendall-shapes.pdf) | |
 | Th 9/21  | [Statistics on Manifolds: Frechet Mean](lectures/FrechetMean.pdf) | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
 | Tu 9/26  | | | |
 | Th 9/28  | | | |
 | Tu 10/3  | | | |
-| Th 10/5  | | | |
+| Th 10/5  | | | **HW 2 Due** |
 | Tu 10/10 | | | |
 | Th 10/12 | | | |
 | Tu 10/17 | | | |
