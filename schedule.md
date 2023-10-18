@@ -20,16 +20,16 @@
 | Th 10/12 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf)<br>**Recorded Lecture (no in-person class)** | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Tu 10/17 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
 | Th 10/19 | Lie algebras, Lie group actions | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | |
-| Tu 10/24 | | | **Project Proposal Due** |
-| Th 10/26 | | | |
-| Tu 10/31 | | | |
-| Th 11/2  | | | |
+| Tu 10/24 | Lie exponential and log maps | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | **Project Proposal Due** |
+| Th 10/26 | Flow based models + Unsupervised Learning | | |
+| Tu 10/31 | Unsupervised Learning Contd. | | |
+| Th 11/2  | Self-supervised Learning | [SimCLR](https://simclr.github.io/) | |
 | Tu 11/7  | *Election Day -- No Class* | | |
-| Th 11/9  | | | |
-| Tu 11/14 | | | |
-| Th 11/16 | | | |
-| Tu 11/21 | | | |
+| Th 11/9  | Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | |
+| Tu 11/14 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | |
+| Th 11/16 | Diffusion Models | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | |
+| Tu 11/21 | Graph Neural Networks | | |
 | Th 11/23 | *Thanksgiving -- No Class* | | |
-| Tu 11/28 | | | |
-| Th 11/30 | | | |
-| Tu 12/5  | | | |
+| Tu 11/28 | Information theory basics, entropy | | |
+| Th 11/30 | Kullback-Leibler divergence | | |
+| Tu 12/5  | Project Presentations | | |
