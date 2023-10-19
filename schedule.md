@@ -19,7 +19,7 @@
 | Tu 10/10 | Manifold geometry of neural networks<br>**Recorded Lecture (no in-person class)** | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | **HW 2 Due** |
 | Th 10/12 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf)<br>**Recorded Lecture (no in-person class)** | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Tu 10/17 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
-| Th 10/19 | Lie algebras | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | |
+| Th 10/19 | Lie algebras | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | [HW 3](homeworks/hw3/hw3.pdf), Due Mon 11/6<br>[notebook and data](https://github.com/tomfletcher/GeometryOfData/tree/master/homeworks/hw3/) |
 | Tu 10/24 | Lie group actions | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | **Project Proposal Due** |
 | Th 10/26 | Flow based models + Unsupervised Learning | | |
 | Tu 10/31 | Unsupervised Learning Contd. | | |
