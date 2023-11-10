@@ -21,7 +21,7 @@
 | Tu 10/17 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
 | Th 10/19 | Lie algebras | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | [HW 3](homeworks/hw3/hw3.pdf), Due Mon 11/6<br>[notebook and data](https://github.com/tomfletcher/GeometryOfData/tree/master/homeworks/hw3/) |
 | Tu 10/24 | Lie group actions | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | **Project Proposal Due** |
-| Th 10/26 | Flow based models | [Glow](https://arxiv.org/abs/1807.03039),[RealNVP]([https://arxiv.org/abs/1807.03039](https://bjlkeng.io/posts/normalizing-flows-with-real-nvp/)) | |
+| Th 10/26 | Flow based models | [Glow](https://arxiv.org/abs/1807.03039), [RealNVP](https://bjlkeng.io/posts/normalizing-flows-with-real-nvp/) | |
 | Tu 10/31 | Self-supervised Learning | [SimCLR](https://simclr.github.io/) | |
 | Th 11/2  | Image-Text Contrastive Learning | [CLIP](https://arxiv.org/abs/2103.00020) | |
 | Tu 11/7  | *Election Day -- No Class* | | |
