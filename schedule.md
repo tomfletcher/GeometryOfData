@@ -27,7 +27,7 @@
 | Tu 11/7  | *Election Day -- No Class* | | |
 | Th 11/9  | Unsupervised Learning + Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | [HW 4](homeworks/hw4.pdf), Due Wed 11/22 |
 | Tu 11/14 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | |
-| Th 11/16 | [Diffusion Models](lectures/Diffusion Models.pdf) | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | |
+| Th 11/16 | [Diffusion Models](lectures/DiffusionModels.pdf) | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | |
 | Tu 11/21 | Graph Neural Networks | | |
 | Th 11/23 | *Thanksgiving -- No Class* | | |
 | Tu 11/28 | Information theory basics, entropy | | |
