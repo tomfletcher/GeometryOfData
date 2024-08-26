@@ -4,9 +4,9 @@
 
 **Getting Help.** Take advantage of office hours. We will work hard to be accessible to students. Please send us email if you need to meet outside of scheduled office hours. Don't be shy if you don't understand something: come to office hours, send email, or speak up in class! We will use Piazza for asking questions, discussing topics from class, and getting help on homeworks. I encourage you to post questions there publicly for the entire class and to chime in with answers to other students' questions.
 
-**Announcements.** Important announcements, such as assignment corrections or deadline changes, will be sent to the class via the Collab announcements for this class. Make sure that you have setup Collab to send you announcements to an email address that you will check regularly, as they may be time-sensitive.
+**Announcements.** Important announcements, such as assignment corrections or deadline changes, will be sent to the class via the Canvas announcements for this class. Make sure that you have setup Canvas to send you announcements to an email address that you will check regularly, as they may be time-sensitive.
 
-**Grading.** The course grade will consist of four, equally-weighted, homeoworks (80% of the course grade) and a final project (20% of the course grade).
+**Grading.** The course grade will consist of 4-5, equally-weighted, homeworks.
 
 Homework assignments will entail writing Python code to solve problems as well as written questions. Submissions must be Jupyter notebooks, which lets you combine formatted text and Python code in an easy-to-use format.
 
@@ -161,14 +161,14 @@ Applied Science has staff members located in Thornton Hall who you can contact
 to help manage academic or personal challenges. Please do not wait until the end
 of the semester to ask for help!
 
-***Learning***
+**Learning**
 
 [https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching](Lisa Lampe), Assistant Dean for Undergraduate Affairs
 Director of Student Success (search underway)
 [mailto:cmacmasters@virginia.edu](Courtney MacMasters), Accessibility Specialist
 [https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/tutoring](Free tutoring) is available for most classes.
 
-***Health and Wellbeing***
+**Health and Wellbeing**
 
 [mailto:mwu5gs@virginia.edu](Kelly Garrett), Assistant Dean of Students, Student Safety and Support
 Elizabeth Ramirez-Weaver, CAPS counselor
@@ -181,7 +181,7 @@ be sure to specify that you are an Engineering student. You are also urged to
 use [https://www.studenthealth.virginia.edu/timelycare](TimelyCare) for either
 scheduled or on-demand 24/7 mental health care.
 
-***Community and Identity***
+**Community and Identity**
 
 The
 [https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering](Center
