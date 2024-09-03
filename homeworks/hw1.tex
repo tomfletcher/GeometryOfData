@@ -17,15 +17,16 @@
 \hrule
 
 {\bf Instructions:} Submit a single Jupyter notebook (.ipynb) of your work to
-Collab by 11:59pm on the due date. All code should be written in Python. {\bf Be
+Canvas by 11:59pm on the due date. All code should be written in Python. {\bf Be
   sure to show all the work involved in deriving your answers! If you just give
   a final answer without explanation, you may not receive credit for that
   question.}
 
 You may discuss the concepts with your classmates, but write up the answers
-entirely on your own. Do not look at another student's answers, do not use
+entirely on your own. Do not look at another student's answers, do not copy
 answers from the internet or other sources, and do not show your answers to
-anyone.
+anyone. {\bf Remember to cite any sources you use, including any prompts given
+  to AI chatbots.}
 
 \begin{enumerate}
 
@@ -34,11 +35,30 @@ anyone.
   $$\mathcal{B} = \{[a, b] : a < b\}.$$
   Is this a valid basis for a topology on $\mathbb{R}$? Why or why not?
 
-\item Given a metric space $X$ with metric
-  $d : X \times X \rightarrow \mathbb{R}$ and a subset $A \subseteq X$, show
-  that the metric restricted to $A$, $d |_{A \times A},$ gives the same topology
-  as the subspace topology on $A$. {\bf Hint:} you may want to solve Exercise 2
-  in Section 1 of the notes and use that result.
+\item An {\bf open map} is a mapping between two topological spaces,
+  $f : X \rightarrow Y$, such that for any open set $U \subseteq X$, the image
+  $f(U)$ is an open set of $Y$.
+
+  \begin{enumerate}
+  \item Let $X = \{a, b, c\}$ and $Y = \{a, b, c\}$ both represent the three
+    point set example from lecture but with potentially different topologies,
+    $\mathcal{T}_X$ and $\mathcal{T}_Y$, respectively. Construct an example of
+    topologies $\mathcal{T}_X$ and $\mathcal{T}_Y$ along with a mapping
+    $f: X \rightarrow Y$ that is continuous but not open.
+
+  \item With the same sets $X$ and $Y$ as in part (a), construct topologies and
+    a mapping ${f:X \rightarrow Y}$ that is open but not continuous.
+
+  \item Give an example of a real-valued function
+    $f : \mathbb{R} \rightarrow \mathbb{R}$ that is continuous but not open.
+
+  \item Give an example of a real-valued function
+    $f : \mathbb{R} \rightarrow \mathbb{R}$ that is open but not
+    continuous. {\bf Hint:} You'll find such a function is quite difficult to
+    come up with. You are certainly welcome to use a web search and/or AI to
+    answer this question. Make sure to verify the example is correct and cite
+    your sources!
+  \end{enumerate}
 
 \item Write a Python function to compute the stereographic projection,
   $f: S^2 \rightarrow \mathbb{R}^2$, from the north pole $(0,0,1)$ of the

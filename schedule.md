@@ -6,11 +6,11 @@
 |----------|--------------------------------------------------------------------|---------------|---------------------------------------|
 | Tu 8/27  | [Introduction](lectures/L01-Introduction.pdf) | | |
 | Th 8/29  | Topology Basics | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | |
-| Tu 9/3   | Topology Basics cont. | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | |
+| Tu 9/3   | Topology Basics cont. | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | [HW 1](homeworks/hw1.pdf), Due Tu 9/17<br>[LaTeX source for HW 1 (for reference)](homeworks/hw1.tex) |
 | Th 9/5   | Manifold Basics | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Tu 9/10  | Manifold Basics cont. | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Th 9/12  | Tangent Spaces | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
-| Tu 9/17  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
+| Tu 9/17  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | **HW 1 Due** |
 | Th 9/19  | Riemannian Geometry, cont. | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
 | Tu 9/24  | Introduction to Shape Manifolds: Kendall's Shape Space | [Kendall, 1984](http://image.diku.dk/imagecanon/material/kendall-shapes.pdf) | |
 | Th 9/26  | Statistics on Manifolds: Frechet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
