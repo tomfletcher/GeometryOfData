@@ -10,7 +10,7 @@ high-dimensional geometry and manifolds and how it applies to the latest advance
 * **Instructors:** [Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) (ptf8v *AT* virginia *DOT* edu)
 * **Prerequisites:** You should have basic (undergraduate level) knowledge of Probability, Linear Algebra, Multivariate Calculus, and be comfortable programming in Python
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
-* **Office Hours:** TBA
+* **Office Hours:** Wednesdays, 1 - 2 pm, Rice 306
 
 ## Additional Reading
 
