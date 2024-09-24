@@ -12,8 +12,8 @@
 | Th 9/12  | Tangent Spaces | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Tu 9/17  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | **HW 1 Due** |
 | Th 9/19  | Riemannian Geometry, cont. | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | [HW 2](homeworks/hw2.pdf), Due Th 10/10 |
-| Tu 9/24  | Introduction to Shape Manifolds: Kendall's Shape Space | [Kendall, 1984](http://image.diku.dk/imagecanon/material/kendall-shapes.pdf) | |
-| Th 9/26  | Statistics on Manifolds: Frechet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
+| Tu 9/24  | [Introduction to Shape Manifolds: Kendall's Shape Space](lectures/L09-ShapeManifolds.pdf) | [Kendall, 1984](http://image.diku.dk/imagecanon/material/kendall-shapes.pdf) | |
+| Th 9/26  | Statistics on Manifolds: Fréchet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
 | Tu 10/1  | Statistics on Manifolds: Principal Geodesic Analysis | [Fletcher 2019, Section 3](https://canvas.its.virginia.edu/files/3569138/) | |
 | Th 10/3  | Introduction to Manifold Learning:<br>Multidimensional Scaling, Isomap | [Cayton, 2005](http://www.lcayton.com/resexam.pdf)<br>[Tenenbaum, de Silva, Langford, 2000](https://wearables.cc.gatech.edu/paper_of_week/isomap.pdf) | |
 | Tu 10/8  | Manifold Learning:<br>Local Linear Embedding, Laplacian Eigenmaps| [Roweis & Saul, 2000](http://www.sciencemag.org/cgi/reprint/290/5500/2323.pdf)<br>[Belkin & Niyogi, 2003](https://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf) | |
