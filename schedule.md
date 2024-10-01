@@ -14,7 +14,7 @@
 | Th 9/19  | Riemannian Geometry, cont. | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | [HW 2](homeworks/hw2.pdf), Due Th 10/10 |
 | Tu 9/24  | [Introduction to Shape Manifolds: Kendall's Shape Space](lectures/L09-ShapeManifolds.pdf) | [Kendall, 1984](http://image.diku.dk/imagecanon/material/kendall-shapes.pdf) | |
 | Th 9/26  | Statistics on Manifolds: Fréchet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
-| Tu 10/1  | Statistics on Manifolds: Principal Geodesic Analysis | [Fletcher 2019, Section 3](https://canvas.its.virginia.edu/files/3569138/) | |
+| Tu 10/1  | Statistics on Manifolds: Principal Geodesic Analysis<br>[PCA Refresher](lectures/PCARefresher.pdf) | [Fletcher 2019, Section 3](https://canvas.its.virginia.edu/files/10445981/) | |
 | Th 10/3  | Introduction to Manifold Learning:<br>Multidimensional Scaling, Isomap | [Cayton, 2005](http://www.lcayton.com/resexam.pdf)<br>[Tenenbaum, de Silva, Langford, 2000](https://wearables.cc.gatech.edu/paper_of_week/isomap.pdf) | |
 | Tu 10/8  | Manifold Learning:<br>Local Linear Embedding, Laplacian Eigenmaps| [Roweis & Saul, 2000](http://www.sciencemag.org/cgi/reprint/290/5500/2323.pdf)<br>[Belkin & Niyogi, 2003](https://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf) | |
 | Th 10/10 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | **HW 2 Due** |
