@@ -20,7 +20,7 @@
 | Th 10/10 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | **HW 2 Due** |
 | Tu 10/15 | *Reading Day -- No Class* | | |
 | Th 10/17 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
-| Tu 10/22 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | [HW 3](homeworks/hw3/hw3.pdf), Due Wed 11/6 |
+| Tu 10/22 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | [HW 3](homeworks/hw3/hw3.pdf), Due Wed 11/6<br>[notebook and data](https://github.com/tomfletcher/GeometryOfData/tree/master/homeworks/hw3/) |
 | Th 10/24 | Lie algebras | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | |
 | Tu 10/29 | Lie group actions | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | |
 | Th 10/31 | Flow based models | [Glow](https://arxiv.org/abs/1807.03039)<br>[RealNVP](https://bjlkeng.io/posts/normalizing-flows-with-real-nvp/) | |
