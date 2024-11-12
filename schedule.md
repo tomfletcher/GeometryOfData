@@ -19,18 +19,19 @@
 | Tu 10/8  | Manifold Learning:<br>Local Linear Embedding, Laplacian Eigenmaps| [Roweis & Saul, 2000](http://www.sciencemag.org/cgi/reprint/290/5500/2323.pdf)<br>[Belkin & Niyogi, 2003](https://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf) | |
 | Th 10/10 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | **HW 2 Due** |
 | Tu 10/15 | *Reading Day -- No Class* | | |
-| Th 10/17 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
+| Th 10/17 | Immersions and Submersions | | |
 | Tu 10/22 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | [HW 3](homeworks/hw3/hw3.pdf), Due Wed 11/6<br>[notebook and data](https://github.com/tomfletcher/GeometryOfData/tree/master/homeworks/hw3/) |
 | Th 10/24 | Lie algebras | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | |
 | Tu 10/29 | Lie group actions | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | |
-| Th 10/31 | Flow based models | [Glow](https://arxiv.org/abs/1807.03039)<br>[RealNVP](https://bjlkeng.io/posts/normalizing-flows-with-real-nvp/) | |
+| Th 10/31 | Information theory basics, entropy | | |
 | Tu 11/5  | *Election Day -- No Class* | |
-| Th 11/7  | Self-supervised Learning | [SimCLR](https://simclr.github.io/) | |
-| Tu 11/9  | Image-Text Contrastive Learning | [CLIP](https://arxiv.org/abs/2103.00020) | |
-| Th 11/14  | Unsupervised Learning + Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | |
-| Tu 11/19 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | |
+| Th 11/7  | Kullback-Leibler divergence | | |
+| Tu 11/12 | Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | [HW 4](homeworks/hw4/hw4.pdf), Due Tu 11/26 |
+| Th 11/14 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | |
+| Tu 11/19 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Th 11/21 | Diffusion Models | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | |
-| Tu 11/26 | Graph Neural Networks | | |
+| Tu 11/26 | Flow based models | [Glow](https://arxiv.org/abs/1807.03039)<br>[RealNVP](https://bjlkeng.io/posts/normalizing-flows-with-real-nvp/) | **HW 4 Due** |
 | Th 11/28 | *Thanksgiving -- No Class* | | |
-| Tu 12/3  | Information theory basics, entropy | | |
-| Th 12/5  | Kullback-Leibler divergence | | |
+| Tu 12/3  | Self-supervised Learning | [SimCLR](https://simclr.github.io/) | |
+| Th 12/5  | Image-Text Contrastive Learning | [CLIP](https://arxiv.org/abs/2103.00020) | |
+
