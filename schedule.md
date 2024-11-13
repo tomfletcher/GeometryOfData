@@ -26,7 +26,7 @@
 | Th 10/31 | Information theory basics, entropy | | |
 | Tu 11/5  | *Election Day -- No Class* | |
 | Th 11/7  | Kullback-Leibler divergence | | |
-| Tu 11/12 | Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | [HW 4](homeworks/hw4/hw4.pdf), Due Tu 11/26 |
+| Tu 11/12 | Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | [HW 4](homeworks/hw4.pdf), Due Tu 11/26 |
 | Th 11/14 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | |
 | Tu 11/19 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Th 11/21 | Diffusion Models | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | |
