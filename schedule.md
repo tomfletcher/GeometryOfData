@@ -27,10 +27,10 @@
 | Tu 11/5  | *Election Day -- No Class* | |
 | Th 11/7  | Kullback-Leibler divergence | | |
 | Tu 11/12 | Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | [HW 4](homeworks/hw4.pdf), Due Tu 11/26 |
-| Th 11/14 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | |
+| Th 11/14 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
 | Tu 11/19 | 
 | Th 11/21 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
-| Tu 11/26 | Diffusion Models | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) | **HW 4 Due** |
+| Tu 11/26 | [Diffusion Models](lectures/DiffusionModels.pdf) | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | **HW 4 Due** |
 | Th 11/28 | *Thanksgiving -- No Class* | | |
 | Tu 12/3  | Flow based models | [Glow](https://arxiv.org/abs/1807.03039)<br>[RealNVP](https://bjlkeng.io/posts/normalizing-flows-with-real-nvp/) |  |
 | Th 12/5  | Contrastive Learning | [SimCLR](https://simclr.github.io/)<br>[CLIP](https://arxiv.org/abs/2103.00020) | |
