@@ -32,6 +32,5 @@
 | Th 11/21 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Tu 11/26 | [Diffusion Models](lectures/DiffusionModels.pdf) | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | **HW 4 Due** |
 | Th 11/28 | *Thanksgiving -- No Class* | | |
-| Tu 12/3  | Flow based models | [Glow](https://arxiv.org/abs/1807.03039)<br>[RealNVP](https://bjlkeng.io/posts/normalizing-flows-with-real-nvp/) |  |
-| Th 12/5  | Contrastive Learning | [SimCLR](https://simclr.github.io/)<br>[CLIP](https://arxiv.org/abs/2103.00020) | |
-
+| Tu 12/3  | Sampling Methods | | [HW 5](homeworks/hw5.pdf), Due Sat 12/14 at noon<br>[starter code](homeworks/HW5-Starter.ipynb) |
+| Th 12/5  | Langevin and Hamiltonian Monte Carlo | | |
