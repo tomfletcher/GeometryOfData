@@ -33,4 +33,4 @@
 | Tu 11/26 | [Diffusion Models](lectures/DiffusionModels.pdf) | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | **HW 4 Due** |
 | Th 11/28 | *Thanksgiving -- No Class* | | |
 | Tu 12/3  | Sampling Methods | | [HW 5](homeworks/hw5.pdf), Due Sat 12/14 at noon<br>[starter code](homeworks/HW5-Starter.ipynb) |
-| Th 12/5  | Langevin and Hamiltonian Monte Carlo | | |
+| Th 12/5  | Langevin and Hamiltonian Monte Carlo | | [MALA](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)<br>[HMC](https://arxiv.org/pdf/1206.1901)<br>[Riemannian MALA and HMC](https://academic.oup.com/jrsssb/article/73/2/123/7034367)|
