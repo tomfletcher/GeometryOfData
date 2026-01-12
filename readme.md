@@ -5,12 +5,13 @@ high-dimensional geometry and manifolds and how it applies to the latest advance
 
 ## Logistics
 
-* **Time:** Tue/Thu 2:00 - 3:15 PM
-* **Location:** Thornton E303 / Zoom
-* **Instructors:** [Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) (ptf8v *AT* virginia *DOT* edu)
+* **Time:** Mon/Wed 2:00 - 3:15 PM
+* **Location:** Thornton E304 / Zoom
+* **Instructor:** [Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) (ptf8v *AT* virginia *DOT* edu)
+* **TA:** Nian (Nellie) Wu (bsw3ac *AT* virginia *DOT* edu)
 * **Prerequisites:** You should have basic (undergraduate level) knowledge of Probability, Linear Algebra, Multivariate Calculus, and be comfortable programming in Python
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
-* **Office Hours:** Wednesdays, 1 - 2 pm, Rice 306
+* **Office Hours:** TBA
 
 ## Additional Reading
 
