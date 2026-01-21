@@ -7,17 +7,17 @@
 | Mo 1/12 | [Introduction](lectures/L01-Introduction.pdf) | | |
 | We 1/14 | Topology Basics | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) | |
 | Mo 1/19 | *Happy MLK Day! -- No Class* | | |
-| We 1/21 | Topology Basics cont. | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) |  |
+| We 1/21 | Topology Basics cont. | [Riemannian Geometry Notes](notes/RiemannianGeometryNotes.pdf) (Section 1) |  [HW 1](homeworks/hw1.pdf), Due Wed 2/4<br>[LaTeX source for HW 1 (for reference)](homeworks/hw1.tex) |
 | Mo 1/26 | Manifold Basics | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | We 1/28 | Manifold Basics cont. | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | Mo 2/2  | Tangent Spaces | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
-| We 2/4  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
+| We 2/4  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | **HW 1 Due** |
 | Mo 2/9  | Riemannian Geometry, cont. | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
-| We 2/11 | Introduction to Shape Manifolds: Kendall's Shape Space | [Kendall, 1984](http://image.diku.dk/imagecanon/material/kendall-shapes.pdf) | |
+| We 2/11 | Introduction to Shape Manifolds: Kendall's Shape Space | [Klingenberg, 2020](https://link.springer.com/article/10.1007/s11692-020-09513-x) | |
 | Mo 2/16 | Statistics on Manifolds: Fréchet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
-| We 2/18 | Statistics on Manifolds: Principal Geodesic Analysis<br>PCA Refresher | [Fletcher 2019, Section 3](https://canvas.its.virginia.edu/files/10445981/) | |
+| We 2/18 | Statistics on Manifolds: Principal Geodesic Analysis<br>PCA Refresher | [Fletcher 2019, Section 3](https://canvas.its.virginia.edu/files/18157101/) | |
 | Mo 2/23 | Introduction to Manifold Learning:<br>Multidimensional Scaling, Isomap | [Cayton, 2005](http://www.lcayton.com/resexam.pdf)<br>[Tenenbaum, de Silva, Langford, 2000](https://wearables.cc.gatech.edu/paper_of_week/isomap.pdf) | |
-| We 2/25 | Manifold Learning:<br>Local Linear Embedding, Laplacian Eigenmaps| [Roweis & Saul, 2000](http://www.sciencemag.org/cgi/reprint/290/5500/2323.pdf)<br>[Belkin & Niyogi, 2003](https://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf) | | 
+| We 2/25 | Manifold Learning:<br>Local Linear Embedding, Laplacian Eigenmaps| [Roweis & Saul, 2000](https://www-jstor-org.proxy1.library.virginia.edu/stable/3081722)<br>[Belkin & Niyogi, 2003](https://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf) | | 
 | Mo 3/2  | *Spring Break -- No Class* | | |
 | We 3/4  | *Spring Break -- No Class* | | |
 | Mo 3/9  | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
@@ -34,4 +34,4 @@
 | We 4/15 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Mo 4/20 | Diffusion Models | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | |
 | We 4/22 | Sampling Methods | | |
-| Mo 4/27 | Langevin and Hamiltonian Monte Carlo | | [MALA](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)<br>[HMC](https://arxiv.org/pdf/1206.1901)<br>[Riemannian MALA and HMC](https://academic.oup.com/jrsssb/article/73/2/123/7034367)|
+| Mo 4/27 | Langevin and Hamiltonian Monte Carlo | [MALA](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)<br>[HMC](https://arxiv.org/pdf/1206.1901)<br>[Riemannian MALA and HMC](https://www-jstor-org.proxy1.library.virginia.edu/stable/41057430)| |

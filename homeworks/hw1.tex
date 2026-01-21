@@ -10,7 +10,7 @@
 
 \begin{document}
 \thispagestyle{empty}
-{\large{\bf ECE / CS 6501: Geometry of Data \hfill Due Tu 9/17}}\\
+{\large{\bf ECE / CS 6501: Geometry of Data \hfill Due Wed 2/4}}\\
 
 {\LARGE{\bf Homework 1: Getting Started }}
 \vspace{0.2\baselineskip}
@@ -35,30 +35,15 @@ anyone. {\bf Remember to cite any sources you use, including any prompts given
   $$\mathcal{B} = \{[a, b] : a < b\}.$$
   Is this a valid basis for a topology on $\mathbb{R}$? Why or why not?
 
-\item An {\bf open map} is a mapping between two topological spaces,
-  $f : X \rightarrow Y$, such that for any open set $U \subseteq X$, the image
-  $f(U)$ is an open set of $Y$.
-
-  \begin{enumerate}
-  \item Let $X = \{a, b, c\}$ and $Y = \{a, b, c\}$ both represent the three
-    point set example from lecture but with potentially different topologies,
-    $\mathcal{T}_X$ and $\mathcal{T}_Y$, respectively. Construct an example of
-    topologies $\mathcal{T}_X$ and $\mathcal{T}_Y$ along with a mapping
-    $f: X \rightarrow Y$ that is continuous but not open.
-
-  \item With the same sets $X$ and $Y$ as in part (a), construct topologies and
-    a mapping ${f:X \rightarrow Y}$ that is open but not continuous.
-
-  \item Give an example of a real-valued function
-    $f : \mathbb{R} \rightarrow \mathbb{R}$ that is continuous but not open.
-
-  \item Give an example of a real-valued function
-    $f : \mathbb{R} \rightarrow \mathbb{R}$ that is open but not
-    continuous. {\bf Hint:} You'll find such a function is quite difficult to
-    come up with. You are certainly welcome to use a web search and/or AI to
-    answer this question. Make sure to verify the example is correct and cite
-    your sources!
-  \end{enumerate}
+\item Let $Y$ be a subspace of a topological space $X$ with basis
+  $\mathcal{B}$. Show that the sets $\{B \cap Y : B \in \mathcal{B}\}$ form a
+  basis for the subspace topology of $Y$.
+  
+\item Given a metric space $X$ with metric
+  $d : X \times X \rightarrow \mathbb{R}$ and a subset $A \subseteq X$, show
+  that the metric restricted to $A$, $d |_{A \times A},$ gives the same topology
+  as the subspace topology on $A$. {\bf Hint:} you may want to use the result
+  from the previous question.
 
 \item Write a Python function to compute the stereographic projection,
   $f: S^2 \rightarrow \mathbb{R}^2$, from the north pole $(0,0,1)$ of the
