@@ -1,7 +1,5 @@
 ## Schedule
 
-*This is a tentative schedule based on the previous year and is subject to change!*
-
 | Day     | Title / Notes                                                      | Reading       | Homework                              |
 |---------|--------------------------------------------------------------------|---------------|---------------------------------------|
 | Mo 1/12 | [Introduction](lectures/L01-Introduction.pdf) | | |
