@@ -11,7 +11,7 @@
 | Mo 2/2  | Manifold Basics | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | |
 | We 2/4  | Tangent Spaces | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 2) | **HW 1 Due** |
 | Mo 2/9  | Riemannian Geometry | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 3) | |
-| We 2/11 | Riemannian Geometry cont. | | |
+| We 2/11 | Riemannian Geometry cont. | | [HW 2](homeworks/hw2.pdf), Due Wed 3/11 |
 | Mo 2/16 | Introduction to Shape Manifolds: Kendall's Shape Space | [Klingenberg, 2020](https://link.springer.com/article/10.1007/s11692-020-09513-x) | |
 | We 2/18 | Statistics on Manifolds: Fréchet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
 | Mo 2/23 | Statistics on Manifolds: Principal Geodesic Analysis<br>PCA Refresher | [Fletcher 2019, Section 3](https://canvas.its.virginia.edu/files/18157101/) | |
@@ -19,7 +19,7 @@
 | Mo 3/2  | *Spring Break -- No Class* | | |
 | We 3/4  | *Spring Break -- No Class* | | |
 | Mo 3/9  | Manifold Learning:<br>Local Linear Embedding, Laplacian Eigenmaps | [Roweis & Saul, 2000](https://www-jstor-org.proxy1.library.virginia.edu/stable/3081722)<br>[Belkin & Niyogi, 2003](https://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf) | |
-| We 3/11 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | |
+| We 3/11 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | **HW 2 Due** |
 | Mo 3/16 | Immersions and Submersions | | |
 | We 3/18 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
 | Mo 3/23 | Lie groups, cont. | | |
