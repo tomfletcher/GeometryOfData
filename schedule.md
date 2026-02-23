@@ -14,7 +14,7 @@
 | We 2/11 | Riemannian Geometry cont. | | [HW 2](homeworks/hw2.pdf), Due Wed 3/11 |
 | Mo 2/16 | [Introduction to Shape Manifolds: Kendall's Shape Space](lectures/L09-ShapeManifolds.pdf) | [Klingenberg, 2020](https://link.springer.com/article/10.1007/s11692-020-09513-x) | |
 | We 2/18 | Statistics on Manifolds: Fréchet Mean | [Pennec, 1999](http://www-sop.inria.fr/asclepios/Publications/Xavier.Pennec/Pennec.NSIP99.pdf) | |
-| Mo 2/23 | Statistics on Manifolds: Principal Geodesic Analysis<br>PCA Refresher | [Fletcher 2019, Section 3](https://canvas.its.virginia.edu/files/18157101/) | |
+| Mo 2/23 | Statistics on Manifolds: Principal Geodesic Analysis<br>[PCA Refresher](PCARefresher.pdf) | [Fletcher 2019, Section 3](https://canvas.its.virginia.edu/files/18157101/) | |
 | We 2/25 | Introduction to Manifold Learning:<br>Multidimensional Scaling, Isomap | [Cayton, 2005](http://www.lcayton.com/resexam.pdf)<br>[Tenenbaum, de Silva, Langford, 2000](https://wearables.cc.gatech.edu/paper_of_week/isomap.pdf) | | 
 | Mo 3/2  | *Spring Break -- No Class* | | |
 | We 3/4  | *Spring Break -- No Class* | | |
