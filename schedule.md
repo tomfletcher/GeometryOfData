@@ -19,7 +19,7 @@
 | Mo 3/2  | *Spring Break -- No Class* | | |
 | We 3/4  | *Spring Break -- No Class* | | |
 | Mo 3/9  | Manifold Learning:<br>Local Linear Embedding, Laplacian Eigenmaps | [Roweis & Saul, 2000](https://www-jstor-org.proxy1.library.virginia.edu/stable/3081722)<br>[Belkin & Niyogi, 2003](https://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf) | |
-| We 3/11 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | **HW 2 Due** |
+| We 3/11 | Manifold geometry of neural networks | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | **HW 2 Due Fri 3/13** |
 | Mo 3/16 | Immersions and Submersions | | |
 | We 3/18 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
 | Mo 3/23 | Lie groups, cont. | | |
