@@ -21,7 +21,7 @@
 | Mo 3/9  | Introduction to Manifold Learning:<br>Multidimensional Scaling | [Cayton, 2005](http://www.lcayton.com/resexam.pdf) | |
 | We 3/11 | Introduction to Manifold Learning:<br>Isomap, Local Linear Embeddings | [Tenenbaum, de Silva, Langford, 2000](https://wearables.cc.gatech.edu/paper_of_week/isomap.pdf)<br>[Roweis & Saul, 2000](https://www-jstor-org.proxy1.library.virginia.edu/stable/3081722) | **HW 2 Due Fri 3/13** |
 | Mo 3/16 | Manifold Learning:<br>Laplacian Eigenmaps | [Belkin & Niyogi, 2003](https://www2.imm.dtu.dk/projects/manifold/Papers/Laplacian.pdf) | |
-| We 3/18 | Manifold geometry of neural networks<br>Immersions and Submersions | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | [HW 3](homeworks/hw3.pdf), Due Fri 4/3 |
+| We 3/18 | Manifold geometry of neural networks<br>Immersions and Submersions | [Goodfellow et al. 2016, Chapter 14](https://www.deeplearningbook.org/) | [HW 3](homeworks/hw3.pdf), Due Fri 4/3<br>[Autoencoder.ipynb](homeworks/Autoencoder.ipynb)<br>[teapot.pth (zipped)](https://canvas.its.virginia.edu/courses/168614/files/18872566/download?download_frd=1) |
 | Mo 3/23 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
 | We 3/25 | Lie algebras | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 5.1)<br>[Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | |
 | Mo 3/30 | Lie group actions | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | |
