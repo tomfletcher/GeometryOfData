@@ -26,10 +26,10 @@
 | We 3/25 | Lie groups | [RGN](notes/RiemannianGeometryNotes.pdf) (Section 4) | |
 | Mo 3/30 | Lie algebras | [Parallel parking and Lie brackets](https://people.math.wisc.edu/~robbin/parking_a_car.pdf) | |
 | We 4/1  | Lie group actions | Applications of Lie groups:<br>[Simard, et al. 1998](http://yann.lecun.com/exdb/publis/pdf/simard-00.pdf)<br>[Casado and Rubio, 2019](https://arxiv.org/abs/1901.08428) | **HW 3 Due Fri 4/3** |
-| Mo 4/6  | Information theory basics, entropy<br>Kullback-Leibler divergence | | |
+| Mo 4/6  | Information theory basics, entropy<br>Kullback-Leibler divergence | | [HW 4](homeworks/hw4.pdf), Due Mon 4/20 |
 | We 4/8  | Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | |
 | Mo 4/13 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
 | We 4/15 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
-| Mo 4/20 | Diffusion Models | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | |
+| Mo 4/20 | Diffusion Models | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | **HW 4 Due** |
 | We 4/22 | Sampling Methods | | |
 | Mo 4/27 | Langevin and Hamiltonian Monte Carlo | [MALA](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)<br>[HMC](https://arxiv.org/pdf/1206.1901)<br>[Riemannian MALA and HMC](https://www-jstor-org.proxy1.library.virginia.edu/stable/41057430)| |
