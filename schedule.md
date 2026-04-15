@@ -29,7 +29,7 @@
 | Mo 4/6  | Information theory basics, entropy<br>Kullback-Leibler divergence | | [HW 4](homeworks/hw4.pdf), Due Mon 4/20 |
 | We 4/8  | Fisher information metric and Gaussians | [Fisher Information](https://en.wikipedia.org/wiki/Fisher_information)<br>[Fisher Information Metric](https://en.wikipedia.org/wiki/Fisher_information_metric) | |
 | Mo 4/13 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
-| We 4/15 | Variational Autoenconders (VAEs) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
+| We 4/15 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Mo 4/20 | Diffusion Models | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | **HW 4 Due** |
 | We 4/22 | Sampling Methods | | |
 | Mo 4/27 | Langevin and Hamiltonian Monte Carlo | [MALA](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)<br>[HMC](https://arxiv.org/pdf/1206.1901)<br>[Riemannian MALA and HMC](https://www-jstor-org.proxy1.library.virginia.edu/stable/41057430)| |
