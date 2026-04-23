@@ -31,5 +31,5 @@
 | Mo 4/13 | Natural gradients | [Pascanu and Bengio, 2014](https://arxiv.org/abs/1301.3584) | |
 | We 4/15 | [Variational Autoenconders (VAEs)](lectures/VAE.pdf) | [Kingma and Welling, 2014](https://arxiv.org/abs/1312.6114) | |
 | Mo 4/20 | Sampling Methods |  | **HW 4 Due** |
-| We 4/22 | Langevin and Hamiltonian Monte Carlo | [MALA](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)<br>[HMC](https://arxiv.org/pdf/1206.1901)<br>[Riemannian MALA and HMC](https://www-jstor-org.proxy1.library.virginia.edu/stable/41057430) | [HW 5](homeworks/hw5.pdf), Due Th 5/7 |
+| We 4/22 | Langevin and Hamiltonian Monte Carlo | [MALA](https://en.wikipedia.org/wiki/Metropolis-adjusted_Langevin_algorithm)<br>[HMC](https://arxiv.org/pdf/1206.1901)<br>[Riemannian MALA and HMC](https://www-jstor-org.proxy1.library.virginia.edu/stable/41057430) | [HW 5](homeworks/hw5.pdf), Due Th 5/7<br>[HW5-Starter.ipynb](homeworks/HW5-Starter.ipynb) |
 | Mo 4/27 | Diffusion Models | [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)<br>[Score-based Generative Models](https://yang-song.net/blog/2021/score/) | |
